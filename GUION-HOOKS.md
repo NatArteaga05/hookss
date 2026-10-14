@@ -1,4 +1,4 @@
-# hola
+# holaaaaa
 # Demo: Hooks en Claude Code
 
 **Duración:** ~30 min · **Requisito:** Python 3 · **Continúa** la demo de subagentes (mismo `notas.py`, ya corregido)
